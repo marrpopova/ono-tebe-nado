@@ -139,7 +139,7 @@
     margin: 179px 24px 179px;
 }
 
-.lots__heading{
+.lots__heading {
     font-size: 40px;
     font-weight: 700;
     line-height: 46.96px;
@@ -155,7 +155,7 @@
     margin-bottom: 30px;
 } /*перенос добавить*/
 
-.lots__card-list-item{
+.lots__card-list-item {
     width: 334px;
     min-height: 563px;
 }
@@ -181,7 +181,7 @@
     background-size: cover;
     position: relative;
 }
-.card_type_book{
+.card_type_book {
     background-image: url(../images/card-lot-02.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -207,7 +207,7 @@
     z-index: 1;
 }
 
-.card__text{
+.card__text {
     font-size: 20px;
     font-weight: 400;
     line-height: 24px;
